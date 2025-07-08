@@ -1,0 +1,29 @@
+# Binários gerados
+zig-out/
+
+# Cache do Zig
+.zig-cache/
+zig-cache/
+
+# Arquivos temporários
+*.tmp
+*.swp
+*.bak
+*~
+
+# Arquivos de log
+*.log
+
+# Build systems auxiliares (caso use)
+build/
+cmake-build-*/
+
+# Arquivos do editor/IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
